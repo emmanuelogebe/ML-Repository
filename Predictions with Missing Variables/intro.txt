@@ -1,1 +1,1 @@
-Here I am using linear regression to make home prices predictions with missing variables
+Here I am using linear regression to make home prices predictions with missing variables.
